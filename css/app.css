@@ -181,8 +181,8 @@
             }
             
             #process-section .process-section h2 {
-                margin-bottom: 30px;
-                font-size: 58px;
+                margin-bottom: 10px;
+                font-size: 28px;
             }
             
             #quote-section .process-section .image-box {
@@ -201,7 +201,7 @@
             }
             
             #quote-section .process-section .text-box p {
-                font-size: 24px;
+                font-size: 15px;
                 margin-bottom: 10px;
                 margin-top: 15px;
                 padding: 10px;
@@ -278,10 +278,10 @@
                 position: absolute;
                 background: #FF6433;
                 z-index: 1;
-                margin-left: 280px;
-                width: 30%;
-                height: 43.6vh;
+                margin-left: 240px;
+                width: 40%;
                 justify-content: center;
+                height: 250px;
             }
             
             .query-text-box {
@@ -302,7 +302,7 @@
                 height: 50px;
                 width: 40%;
                 background: #000;
-                border-radius: 10px;
+                border-radius: 5px;
                 margin-top: 50px;
             }
             
